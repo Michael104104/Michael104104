@@ -72,36 +72,24 @@ when_not_coding: [Race cycling, Baseball, Hiking]
 <!-- Featured Project -->
 <h3>🚀 &nbsp;Featured Project</h3>
 
-<table>
-  <tr>
-    <td valign="top" width="62%">
-      <h4>🍽️ Arnfels Dorm Meal Bot &nbsp;<a href="https://t.me/ArnfelsDormMealBot"><img src="https://img.shields.io/badge/Live%20on%20Telegram-@ArnfelsDormMealBot-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a></h4>
-      <p>A Telegram bot that scrapes and delivers daily meal menus to ~30–40 dorm students. Started as a "wouldn't it be nice if..." idea — now people actually rely on it.</p>
-      <ul>
-        <li>AI-powered menu parsing via <strong>DeepSeek / OpenRouter</strong></li>
-        <li>Personalised notification schedules (Mon–Fri)</li>
-        <li>Full <strong>admin panel</strong> — user management, holidays, broadcasts</li>
-        <li>Per-user config: time, language, meal type, pause/resume</li>
-        <li><strong>24/7 uptime</strong> — zero downtime on redeployment</li>
-        <li>Rate limiting, XSS protection, input validation</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Telegram_API-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenRouter-c44d34?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JSONBin.io-333333?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
-      </p>
-      <sub><i>Private repo — public release coming soon</i></sub>
-    </td>
-    <td valign="top" width="38%" align="center">
-      <br/>
-      <img src="https://img.shields.io/badge/Active%20Users-30–40-c44d34?style=for-the-badge" /><br/><br/>
-      <img src="https://img.shields.io/badge/Uptime-24%2F7-2CA5E0?style=for-the-badge" /><br/><br/>
-      <img src="https://img.shields.io/badge/Status-🟢%20Live-2d6a4f?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
+**🍽️ Arnfels Dorm Meal Bot** &nbsp;&nbsp; <a href="https://t.me/ArnfelsDormMealBot"><img src="https://img.shields.io/badge/Live%20on%20Telegram-@ArnfelsDormMealBot-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a> &nbsp; <img src="https://img.shields.io/badge/~30–40%20users-c44d34?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/uptime-24%2F7-2CA5E0?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/status-live-2d6a4f?style=flat-square"/>
+
+A Telegram bot that scrapes and delivers daily meal menus to ~30–40 dorm students. Started as a "wouldn't it be nice if..." idea — now people actually rely on it.
+
+- AI-powered menu parsing via **DeepSeek / OpenRouter**
+- Personalised notification schedules (Mon–Fri)
+- Full **admin panel** — user management, holidays, broadcasts
+- Per-user config: time, language, meal type, pause/resume
+- **24/7 uptime** — zero downtime on redeployment
+- Rate limiting, XSS protection, input validation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Telegram API](https://img.shields.io/badge/Telegram_API-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-c44d34?style=flat-square&logoColor=white)
+![JSONBin.io](https://img.shields.io/badge/JSONBin.io-333333?style=flat-square)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+*Private repo — public release coming soon*
 
 ---
 
