@@ -65,7 +65,7 @@ when_not_coding: [Race cycling, Baseball, Hiking]
 
 **🍽️ Arnfels Dorm Meal Bot** &nbsp;&nbsp; <a href="https://t.me/ArnfelsDormMealBot"><img src="https://img.shields.io/badge/Live%20on%20Telegram-@ArnfelsDormMealBot-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a> &nbsp; <img src="https://img.shields.io/badge/~30–40%20users-c44d34?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/uptime-24%2F7-2CA5E0?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/status-live-2d6a4f?style=flat-square"/>
 
-A Telegram bot that scrapes and delivers daily meal menus to ~30–40 dorm students. Started as a "wouldn't it be nice if..." idea — now people actually rely on it.
+A Telegram bot that scrapes and delivers daily meal menus to ~30–40 dorm students. Started as a "wouldn't it be nice if..." idea, now people actually rely on it.
 
 - AI-powered menu parsing via **DeepSeek / OpenRouter**
 - Personalised notification schedules (Mon–Fri)
