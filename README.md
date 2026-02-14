@@ -47,20 +47,16 @@ when_not_coding: [Race cycling, Baseball, Hiking]
 <!-- Tech Stack -->
 <h3>🛠️ &nbsp;Tools & Technologies</h3>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=telegram" width="40" height="40" alt="Telegram" title="Telegram Bot API" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40" alt="Cloudflare" title="Cloudflare" />
-  <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" title="Linux" />
-  <img src="https://skillicons.dev/icons?i=render" width="40" height="40" alt="Render" title="Render" />
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py,c,html,css,js,vscode,git,github,cloudflare,linux" />
+</div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=flat-square&logo=telegram&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/OpenRouter_API-c44d34?style=flat-square" height="20" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" height="20" />
+  <img src="https://img.shields.io/badge/JSONBin.io-333333?style=flat-square" height="20" />
+</div>
 
 ---
 
@@ -92,9 +88,8 @@ A Telegram bot that scrapes and delivers daily meal menus to ~30–40 dorm stude
 <h3>📊 &nbsp;GitHub Stats</h3>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Michael104104&show_icons=true&theme=transparent&hide_border=true&title_color=c44d34&icon_color=c44d34&text_color=ffffff&bg_color=0d1117&count_private=true" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael104104&layout=compact&theme=transparent&hide_border=true&title_color=c44d34&text_color=ffffff&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Michael104104&show_icons=true&hide_border=true&title_color=c44d34&icon_color=c44d34&text_color=ffffff&bg_color=161b22&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael104104&layout=compact&hide_border=true&title_color=c44d34&text_color=ffffff&bg_color=161b22&langs_count=6" />
 </div>
 
 <br/>
