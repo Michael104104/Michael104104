@@ -48,23 +48,18 @@ when_not_coding: [Race cycling, Baseball, Hiking]
 <h3>🛠️ &nbsp;Tools & Technologies</h3>
 
 <p align="left">
-  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C" title="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
-  &nbsp;
-  <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40" alt="GitHub" title="GitHub" />
-  &nbsp;
-  <!-- Platforms/Services — shields badges for ones with no reliable devicon -->
-  <img src="https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=flat-square&logo=telegram&logoColor=white&labelColor=2CA5E0" height="26" alt="Telegram Bot API" title="Telegram Bot API" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" height="26" alt="Cloudflare" title="Cloudflare" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" height="26" alt="Render" title="Render" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="26" alt="Linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=telegram" width="40" height="40" alt="Telegram" title="Telegram Bot API" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40" alt="Cloudflare" title="Cloudflare" />
+  <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=render" width="40" height="40" alt="Render" title="Render" />
 </p>
 
 ---
