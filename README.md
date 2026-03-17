@@ -31,7 +31,6 @@ currently:
 field: Applikationsentwicklung -
 Coding languages:
   main: [Python, C]
-  also_know: [HTML, CSS, JavaScript]
 when_not_coding: [Race cycling, Baseball, Hiking]
 ```
 
